@@ -1,0 +1,7 @@
+name: GhastWhistle
+version: '1.1.2'
+main: org.ghastWhistle.GhastWhistlePlugin
+api-version: '1.21'
+authors: [ Cha0sBEpic ]
+description: Lets players call their Happy Ghast with a horn.
+website: https://github.com/Cha0sBEpic

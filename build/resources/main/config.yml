@@ -1,0 +1,12 @@
+# GhastWhistle Configuration
+# Controls whistle behavior, mob targeting, and formatting options.
+
+# Only the custom "happy_ghast" should respond to whistles.
+# Do not change unless you know what you're doing.
+target-entity: "happy_ghast"
+
+# Allow formatted names (bold, italic, color codes)
+allow-formatting: true
+
+# Cooldown (in seconds) between whistle uses.
+cooldown: 3
